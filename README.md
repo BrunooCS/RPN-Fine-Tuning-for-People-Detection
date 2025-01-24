@@ -1,5 +1,5 @@
 
-# **RPN Fine-Tuning for Pedestrian Detection**  
+# **RPN Fine-Tuning for People Detection**  
 > **Using Penn-Fudan Dataset, PyTorch, and Real-Time Video Analysis**  
 
 <div align="center">
