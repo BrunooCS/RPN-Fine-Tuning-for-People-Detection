@@ -1,5 +1,7 @@
+<h1 align="center">
+RPN Fine-Tuning for People Detection 
+</h1>
 
-# RPN Fine-Tuning for People Detection  
 > Using Penn-Fudan Dataset, PyTorch, and Real-Time Video Analysis
 
 <p align="center">
