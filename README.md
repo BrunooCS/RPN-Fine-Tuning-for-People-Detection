@@ -53,10 +53,10 @@ Harness the power of **Python** for flexible scripting, **PyTorch** for deep lea
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   https://github.com/BrunooCS/RPN-Fine-Tuning-for-People-Detection.git
    ```
 2. **Open the Notebook:**
-   Launch Jupyter Notebook (or your preferred environment) and open `RPN_FineTuning.ipynb`.
+   Launch Jupyter Notebook (or your preferred environment) and open `Object Detection Finetuning.ipynb`.
 3. **Run & Explore:**
    Execute the cells sequentially to see the RPN in action—detecting pedestrians in images and videos.
 
